@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "7390a04f4621daf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b91172ce7b67c215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de7f0913055a1478",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1deb474d9e7cec42",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3666f7643df3f395",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e5844e0ec66a17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efe2bb96eaa21b89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "594d8f6db5c90e05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#glc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "504ccf424312e7b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c022ec3bffdeb65",
+    "type": "split",
+    "children": [
+      {
+        "id": "02d18076ddc0ecfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5a0cc4e169ec6fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "macOS 15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for macOS 15"
+            }
+          },
+          {
+            "id": "c224aa8c5e736fc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "macOS 15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from macOS 15"
+            }
+          },
+          {
+            "id": "38c5786349536864",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "76e62e64cd8889cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1deb474d9e7cec42",
+  "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "commonbook/Work/Archive/OKTA API.md",
+    "commonbook",
+    "commonbook/note",
+    "commonbook/Work/Projects/Update Okta Profiles.md",
+    "commonbook/Work/Projects/GLC Account Mega Thread.md",
+    "commonbook/Work/Resources/Daily Notes/2025/Febuary/2025-02-04.md",
+    "commonbook/Work/Projects/Break into Phills Digital Ocean account.md",
+    "commonbook/Work/Projects/Work Project Tracker.md",
+    "commonbook/Work/Resources/Dashlane Recovery Key.md",
+    "commonbook/Work/Projects/Create Data Destruction forms for Melissa.md",
+    "commonbook/Work/Archive/Break into GLC Network Solutions account.md",
+    "commonbook/Work/Archive/Penn MapBox Account.md",
+    "Work/Projects/Untitled.md",
+    "commonbook/Work/Resources/Daily Notes/2025/Febuary/2025-02-03.md",
+    "commonbook/Templates/Project Template (insert name).md",
+    "commonbook/Work/Resources/Links.md",
+    "commonbook/Work/Projects/Org Wide Google Cloud ID.md",
+    "commonbook/Work/Resources/Daily Notes/2025/Febuary",
+    "commonbook/Work/Projects/Okta Profile Updates.md",
+    "commonbook/Templates",
+    "Untitled.canvas",
+    "Work/Projects/Post Termination Account Access.md",
+    "Work/Projects/Google Cloud ID Rollout.md",
+    "commonbook/Work/Resources/Networking Equipment.md",
+    "commonbook/Work/Resources/Daily Notes/2025/January/2025-01-31.md",
+    "commonbook/Personal/Resources/Quotes.md",
+    "Quotes.md",
+    "commonbook/Work/Resources/Daily Notes/2025/January/2025-01-30.md",
+    "commonbook/Work/Resources/Daily Notes/2025/January/2025-01-29.md",
+    "2025-01-29.md",
+    "commonbook/Work/Areas/Strategy & Innovation/Research & development",
+    "Work/Areas/Strategy & Innovation/untitled folder",
+    "commonbook/Work/Areas/Strategy & Innovation/Technology roadmap",
+    "commonbook/Work/Areas/Team & Operations/Training programs",
+    "Work/Areas/Team & Operations/untitled folder",
+    "commonbook/Work/Areas/Team & Operations/SLA monitoring"
+  ]
+}
