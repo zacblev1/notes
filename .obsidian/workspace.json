@@ -21,10 +21,14 @@
             "id": "1deb474d9e7cec42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "commonbook/Work/Projects/Phill Tasks Mega Thread.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phill Tasks Mega Thread"
             }
           }
         ],
@@ -147,16 +151,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "commonbook/Work/Projects/Phill Tasks Mega Thread.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Phill Tasks Mega Thread"
+            }
+          },
+          {
+            "id": "0b559268fac5effd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,23 +189,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1deb474d9e7cec42",
+  "active": "efe2bb96eaa21b89",
   "lastOpenFiles": [
+    "Screenshot 2025-02-06 at 6.28.16 AM.png",
+    "Screenshot 2025-02-05 at 4.17.41 PM.png",
+    "commonbook/Work/Projects/Work Project Tracker.md",
+    "commonbook/Work/Projects/Phill Tasks Mega Thread.md",
+    "commonbook/Work/Projects/Break into Phills Digital Ocean account.md",
+    "commonbook/Work/Resources/Daily Notes/2025/January/2025-01-30.md",
+    "commonbook/Work/Resources/Daily Notes/2025/January/2025-01-29.md",
+    "commonbook/Work/Resources/Daily Notes/2025/Febuary/2025-02-03.md",
+    "commonbook/Work/Resources/Daily Notes/2025/Febuary/2025-02-04.md",
+    "commonbook/Work/Projects/GLC Account Mega Thread.md",
+    "commonbook/Work/Archive/Create Data Destruction forms for Melissa.md",
+    "commonbook/Work/Projects/Phil Mega-thread.md",
     "Untitled Kanban.md",
     "commonbook/Work/Archive/OKTA API.md",
     "commonbook",
     "commonbook/note",
     "commonbook/Work/Projects/Update Okta Profiles.md",
-    "commonbook/Work/Projects/GLC Account Mega Thread.md",
-    "commonbook/Work/Resources/Daily Notes/2025/Febuary/2025-02-04.md",
-    "commonbook/Work/Projects/Break into Phills Digital Ocean account.md",
-    "commonbook/Work/Projects/Work Project Tracker.md",
     "commonbook/Work/Resources/Dashlane Recovery Key.md",
-    "commonbook/Work/Projects/Create Data Destruction forms for Melissa.md",
     "commonbook/Work/Archive/Break into GLC Network Solutions account.md",
     "commonbook/Work/Archive/Penn MapBox Account.md",
     "Work/Projects/Untitled.md",
-    "commonbook/Work/Resources/Daily Notes/2025/Febuary/2025-02-03.md",
     "commonbook/Templates/Project Template (insert name).md",
     "commonbook/Work/Resources/Links.md",
     "commonbook/Work/Projects/Org Wide Google Cloud ID.md",
@@ -202,11 +223,6 @@
     "Work/Projects/Google Cloud ID Rollout.md",
     "commonbook/Work/Resources/Networking Equipment.md",
     "commonbook/Work/Resources/Daily Notes/2025/January/2025-01-31.md",
-    "commonbook/Personal/Resources/Quotes.md",
-    "Quotes.md",
-    "commonbook/Work/Resources/Daily Notes/2025/January/2025-01-30.md",
-    "commonbook/Work/Resources/Daily Notes/2025/January/2025-01-29.md",
-    "2025-01-29.md",
     "commonbook/Work/Areas/Strategy & Innovation/Research & development",
     "Work/Areas/Strategy & Innovation/untitled folder",
     "commonbook/Work/Areas/Strategy & Innovation/Technology roadmap",

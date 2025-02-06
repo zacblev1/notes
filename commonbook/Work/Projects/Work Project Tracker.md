@@ -14,8 +14,7 @@ kanban-plugin: board
 - [ ] [[Org Wide Google Cloud ID]]
 - [ ] [[Update Okta Profiles]]
 - [ ] Domains out of Godaddy
-- [ ] [[Create Data Destruction forms for Melissa]]
-- [ ] [[Break into Phills Digital Ocean account]]
+- [ ] [[Phill Tasks Mega Thread]]
 
 
 ## Done
@@ -25,6 +24,8 @@ kanban-plugin: board
 - [x] Reset password on GLC content gmail
 - [x] Shutdown Web Confluence
 - [ ] [[Break into GLC Network Solutions account]]
+- [ ] [[Break into Phills Digital Ocean account]]
+- [ ] [[Create Data Destruction forms for Melissa]]
 - [ ] Create users for Chad isn SalesForce
 - [ ] [[Penn MapBox Account]]
 - [x] Reset passwords on GLC Metrics Gmail

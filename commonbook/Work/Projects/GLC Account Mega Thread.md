@@ -36,7 +36,8 @@ ___
 	10. Network Solutions, Cloud Access GoDaddy
 
 2. Gain access to domain hosting platforms
-	1. Network Solutions 
+	1. Network Solutions
+		1. We have access to one but there is likely another
 	2. GoDaddy
 		1. This one is complete
 3. 
